@@ -1,4 +1,5 @@
 # 1st-demo
 This is my frist Git Repository
 <br>
-Author - Aayush Prjapati
+Author - (Aayush 1st-demo)
+  
